@@ -5,5 +5,8 @@ You might have noticed that when you are trying to study hard of doing something
 So when you find yourself doing something like that,caught yourself by pushing that red button.
 
 ## About this App
+
+![Screenshot](images/scrn_shot2.jpg)
+
 This is very simple app having very few lines of code and i have created this application for my personal use. But i thought,i should showcase this app so that anyone else could get benifit from it. This application have a great impact on my concentration.
 My focus is improved savral times.
