@@ -1,8 +1,8 @@
 # ADHD_HELPER
 ## Caught yourself doing something and thinking about something else
 ADHD is __Attention Deficit Hyperactivity Disorder__ in which a person is doing something and thinking about something else.
-You might have noticed that when you are trying to study hard of doing something which requires high concentration but you are unable to do that because your brain is overwhelmed by thoughts.
-So when you find yourself doing something like that,caught yourself by pushing that red button.
+You might have noticed that when you are trying to study hard or doing something which requires high concentration but you are unable to do that because your brain is overwhelmed by thoughts.
+So when you find yourself doing something like that,caught yourself by pushing that red button.This will increase your attention to reality and you feel more focused.
 
 ## About this App
 
